@@ -1,5 +1,6 @@
 # My-Programming-Books
-My all Programming books available for public to download 
+
+My collections of Book's that i don't want to keep forever. 
 
 ## Books in my collection right now : 
   * C
