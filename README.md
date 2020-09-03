@@ -20,4 +20,4 @@ My collections of Book's that i don't want to keep forever.
   * GNU C Compiler (GCC)
 
 
-### Due to Bandwidth issues i'm unable to *git push* the contents, but doing to soon.
+### Due to Bandwidth issues i'm unable to *git push* the contents, but doing it ASAP.
