@@ -1,6 +1,6 @@
 # My-Programming-Books
 
-My collections of Book's that i don't want to keep forever. 
+My collections of Book's that i want to keep forever. 
 
 ## Books in my collection right now : 
   * C
