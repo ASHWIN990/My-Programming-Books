@@ -15,9 +15,9 @@ My collections of Book's that i want to keep forever.
     * Advance
     * Expert
 
-  * Operating System (OS)
-  * Theory of Computation (ToC)
-  * GNU C Compiler (GCC)
+  * Operating System (OS)	☑️
+  * Theory of Computation (ToC)	☑️
+  * GNU C Compiler (GCC)	☑️
 
 
 ### Due to Bandwidth issues i'm unable to *git push* the contents, but doing it ASAP.
