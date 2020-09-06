@@ -10,7 +10,7 @@ My collections of Book's that i want to keep forever.
     * Expert
 
   * Python
-    * Beginner
+    * Beginner	☑️
     * Intermediate
     * Advance
     * Expert
