@@ -23,5 +23,5 @@ My collections of Book's that i want to keep forever.
     * Bash 5 Book ☑️
     * C 1 Book ☑️
 
-### Due to Bandwidth issues i'm unable to *git push* the contents, but doing it ASAP.
+### Due to Bandwidth issues i'm unable to *git push* all the contents, but doing it ASAP.
  
